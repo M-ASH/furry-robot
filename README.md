@@ -1,6 +1,7 @@
 *Arvo
 *Harrier
 *Hornet
+ugh git is not easy  git is not fun
 
 # Introduction
 
